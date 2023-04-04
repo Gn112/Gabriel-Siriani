@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Siriani</h1>
-<h3 align="center">I'm a Junior Developer, passionated with Front-End Development & UI Desing</h3>
+<h3 align="center">I'm a Junior Developer, working with Front and Back-end Development & UI Desing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gn112&label=Profile%20views&color=0e75b6&style=flat" alt="gn112" /> </p>
 
