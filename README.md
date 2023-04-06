@@ -11,9 +11,7 @@
 
 - 📫 How to reach me **gabrielsiriani19@gmail.com**
 
-- 📄 Know about my experiences [https://gabrielsiriani.com/](https://gabrielsiriani.com/)
-
-- ⚡ Fun fact **I like cats**
+- ⚡ Fun fact **I really like cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
