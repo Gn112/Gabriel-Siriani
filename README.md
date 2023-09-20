@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel Siriani</h1>
-<h3 align="center">I'm a Junior Developer, working with Front and Back-end Development & UI Desing</h3>
+<h3 align="center">I'm a Full-Stack Junior Developer with a passion for creating innovative web applications and improving my coding skills</h3>
 
 # 💫 About Me:
-"se o debuggar é o processo de remoção de bugs de software, então a programação é o processo de colocá-los" - Edsger W. Dijkstra<br><br>🔭 I’m currently working on BuffEats!!.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning React, PHP, and NextJS<br>⚡ Fun fact i love cats.
+"Se debuggar é o processo de remoção de bugs de software, então a programação é o processo de colocá-los" - Edsger W. Dijkstra<br><br>🔭 I’m currently working on BuffEats!!.<br>🌱 I’m currently learning React, PHP, and NextJS<br>⚡ Fun fact i love cats.
 
 
 ## 🌐 Socials:
